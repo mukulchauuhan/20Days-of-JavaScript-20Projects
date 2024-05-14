@@ -15,9 +15,9 @@ In this repository, you'll find a diverse range of projects showcasing the power
 ## Projects
 Here's a list of the projects included in this repository till now:
 
-Project 1: *Stopwatch Timer Application*
-Project 2: *Vowel Counter Application* 
-Project 3: *Poll System Application* 
+Project 1: *Stopwatch Timer Application* <br />
+Project 2: *Vowel Counter Application* <br />
+Project 3: *Poll System Application* <br />
 
 Each project folder contains all the necessary files and resources to run the project locally and contribute to its development.
 
